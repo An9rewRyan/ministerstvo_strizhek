@@ -1,2 +1,2 @@
-# ministerstvo_strizhek
+# project_ministerstvo_strizhek
  

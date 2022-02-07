@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==3.2.12"
+psycopg2-binary = "*"
+django-heroku = "*"
+pillow = "*"
+django-pwa = "*"
+django-debug-toolbar = "*"
+django-debug-toolbar-force = "*"
+pymemcache = "*"
+python-memcached = "*"
+whitenoise = "*"
+gunicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
