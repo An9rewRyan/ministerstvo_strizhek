@@ -1,0 +1,2 @@
+# ministerstvo_strizhek
+ 
